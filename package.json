@@ -4,8 +4,8 @@
   "private": true,
   "version": "0.0.1",
   "author": "Agapov D",
-  "repository": "https://github.com/cdrewriter/UralMiass",
-  "homepage": "https://github.com/cdrewriter/UralMiass",
+  "repository": "https://github.com/cdrewriter/UralMiass1",
+  "homepage": "https://github.com/cdrewriter/UralMiass1",
   "license": "MIT",
   "engines": {
     "node": ">=10.0.0"
